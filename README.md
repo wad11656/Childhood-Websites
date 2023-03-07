@@ -1,5 +1,5 @@
 # Childhood-Websites
-Links to archive.org's preservations of websites I made as a kid. I wish I knew about archive.org back then to preserve all the pages! Those really were the days! Before having to worry about your appearances and your place in the dating pool... Just letting your creative juices run wild, making internet friends, involving IRL friends with it, developing new skills, having fun.
+Links to archive.org's preservations of websites I made as a kid (~2005-2010). I wish I knew about archive.org back then to preserve all the pages! Those really were the days! Before having to worry about your appearances and your place in the dating pool... Just letting your creative juices run wild, making internet friends, involving IRL friends with it, developing new skills, having fun.
 
 ### Cheese Worlds:
 https://web.archive.org/web/20060811204856/http://www.freewebs.com/wad11656/
@@ -25,7 +25,7 @@ https://web.archive.org/web/20100212003507/freewebs.com/akpokemonol
 - I remeber my favorite part of this site was the [Requested Sprites](https://web.archive.org/web/20090625214207/http://www.freewebs.com/akpokemonol/Images%20and%20Sprites/Sprites/RequestedSprites.htm) collection. At the time of archival, I apparently had collected 67(!) pieces of free commissioned Pokémon pixel art. Unfortunately, none of the links on that page are active, but some of the artwork is archived on the old site [here](https://web.archive.org/web/20100922051957/http://akpokemon.webs.com/imagesandsprites.htm).
    - For some reason, on the [Serebii.net forums](https://forums.serebii.net/)—and in the Pokémon internet community in general—pixel art was a hot topic, and there were a surprising number of great artists.
 
-### Special Mention: Pokémon Egg Move Breeding Guide:
+### (Special Mention) Pokémon Egg Move Breeding Guide:
 - I don't remember the URL, or it wasn't archived.
 - I started building out another FreeWebs site that would outline the exact Pokémon in the video games that need to breed in order for their offspring to acquire certain "egg moves". I used the same website builder theme as the blue one in the original "Awesome Kids Pokémon" website above, but in yellow.
 - I was super proud of the progress I was making in making the site look good, and in manually looking up and mapping out every single breeding combination possible/necessary to get the offspring certain egg moves.
