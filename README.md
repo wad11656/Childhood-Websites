@@ -1,5 +1,5 @@
 # Childhood-Websites
-Links to archive.org's preservations of a couple websites I made as a kid. I wish I knew about archive.org back then to preserve all the pages! Those really were the days! Before having to worry about your appearances and your place in the dating pool... Just letting your creative juices run wild, making internet friends, involving IRL friends with it, developing new skills, having fun.
+Links to archive.org's preservations of websites I made as a kid. I wish I knew about archive.org back then to preserve all the pages! Those really were the days! Before having to worry about your appearances and your place in the dating pool... Just letting your creative juices run wild, making internet friends, involving IRL friends with it, developing new skills, having fun.
 
 ### Cheese Worlds:
 https://web.archive.org/web/20060811204856/http://www.freewebs.com/wad11656/
